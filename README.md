@@ -1,6 +1,6 @@
 # Clone Netflix
 
-Tecnologias utilizadas: React JS, Node, HTML, CSS, JavaScript e Material UI.
+Tecnologias utilizadas: React JS, Node, HTML, CSS, JavaScript, Material UI e consumo de API do Themoviedb.org para mostrar imagens, descrições, títulos, temporadas, etc...
 
 ## Preview: 
 
